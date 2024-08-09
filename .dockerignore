@@ -1,0 +1,5 @@
+dbdata
+vendor
+.git
+.gitignore
+.env
